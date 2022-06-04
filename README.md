@@ -14,6 +14,10 @@ Some of these hypothesis are;
   6. The higher the price the lesser the number of subscribers.
   7. Beginner level brings higher revenue to the company as compared to the other levels.
 
+### Analyses
+Python Jupyter Notebook was used to analyzed the data and derive insights to reach meaning conclusion for the above questions.
+Some librabries such as pandas, numpy and plotly as well as matplolib visualization libraries were imported into the notebook.
+
 ### Findings
 After analyzing the data, we found out that
 1. Business Finance domain does not bring the highest revenue but rather Web Development rakes in 630843775 as the highest revenue to the company compared to 123735315 of Business Finance. Graphic Design pegs at third with a total revenue of 76983170. Music Instruments brings the least of revenue with 53359055.
