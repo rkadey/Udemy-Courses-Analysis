@@ -1,7 +1,7 @@
 # Udemy-Courses-Analysis
 ### Background and Problem Statement
 Udemy is an online learning and teaching marketplace with over 185000 courses and 49 million students. Learn programming, marketing, data science and more.
-The company wants to understand their data which will help them drive more revenue whilst satisfying learners and also prioritize areas that need more attentions.
+The company wants to understand their data which will help them drive more revenue whilst satisfying learners and also prioritize areas that need more attention.
 
 ### Aim of the Project.
 The aim of this project is to analyze the Udemy data provided and also answer some hypothesis generated.
